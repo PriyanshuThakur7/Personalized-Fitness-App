@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e52ce6b-8d62-4ca3-98cc-e0854675500f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/config/MongoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/controller/ActivityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/dto/ActivityRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/dto/ActivityResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/model/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/model/ActivityType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/repository/ActivityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/service/ActivityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PersonalizedFitnessApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userService/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/activityService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/activityService/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/userService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userService/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ActivityServiceApplication.executor": "Run",
+    "Application.EurekaApplication.executor": "Run",
     "Application.UserServiceApplication.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
