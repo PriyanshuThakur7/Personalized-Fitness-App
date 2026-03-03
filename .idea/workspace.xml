@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e52ce6b-8d62-4ca3-98cc-e0854675500f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/config/MongoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/controller/ActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/dto/ActivityRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/dto/ActivityResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/model/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/model/ActivityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/repository/ActivityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activityService/src/main/java/com/fitness/activityService/service/ActivityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PersonalizedFitnessApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userService/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38fDpa0ybgmX5ysNHOWakaIcOOW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActivityServiceApplication.executor": "Run",
+    "Application.UserServiceApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/easy_/OneDrive/Desktop/Projects/PersonalizedFitnessApp",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes",
+    "settings.editor.splitter.proportion": "0.28783384"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fitness.activityService.service" />
+      <recent name="com.fitness.activityService.dto" />
+      <recent name="com.fitness.activityService.model" />
+      <recent name="com.fitness.userService.service" />
+      <recent name="com.fitness.userService.dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\easy_\OneDrive\Desktop\Projects\PersonalizedFitnessApp\activityService\src\main\java\com\fitness\activityService" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e52ce6b-8d62-4ca3-98cc-e0854675500f" name="Changes" comment="" />
+      <created>1769181915162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769181915162</updated>
+    </task>
+    <servers />
+  </component>
+</project>
