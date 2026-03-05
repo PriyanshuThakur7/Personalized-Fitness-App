@@ -53,4 +53,8 @@ public class UserService {
         userResponse.setWeight(savedUser.getWeight());
         return userResponse;
     }
+
+    public Boolean existsById(String userId) {
+        return userRepository.existsById(userId);
+    }
 }
